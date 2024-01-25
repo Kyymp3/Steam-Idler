@@ -6,7 +6,7 @@ var username = process.env.username;
 var password = process.env.password;
 var shared_secret = process.env.shared;
 
-var games = [1604030, 730, 739630, 440];  // VRising, CS2, Phasmophobia, TF2, Amongus, BDO, OW2, Rust, Outlast, Bloodhunt
+var games = [1604030, 730, 739630, 440, 550];  // VRising, CS2, Phasmophobia, TF2, Amongus, BDO, OW2, Rust, Outlast, Bloodhunt
 		//COD 1938090
 var status = 1;  // 1 - online, 7 - invisible
 
